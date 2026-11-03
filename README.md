@@ -16,6 +16,7 @@ reportes en Excel y expedientes. Todo se guarda en tu computadora; nada se sube 
 | [Guía rápida](GUIA-RAPIDA.md) | De cero a tus primeros CFDI descargados en 6 pasos |
 | [Dónde están mis archivos](DONDE-ESTAN-MIS-ARCHIVOS.md) | Carpetas de XML, PDF, Excel y expedientes, y cómo abrirlas |
 | [Cómo enviar comentarios y reportar fallas](COMO-REPORTAR.md) | Qué anotar para que una falla se resuelva rápido |
+| [Historial de cambios](CHANGELOG.md) | Lo nuevo de cada versión |
 
 ## Atajo a tus XML
 

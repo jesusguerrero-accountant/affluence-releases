@@ -25,7 +25,7 @@ Si tu antivirus pregunta, permite la instalación.
 ## 3. Instalar
 
 Sigue las pantallas del instalador: acepta los términos de la beta y el aviso de privacidad, y
-termina. Queda un acceso en el menú Inicio y en el escritorio.
+termina. Queda un acceso en el menú Inicio.
 
 ## 4. Primer arranque: crear al administrador
 
