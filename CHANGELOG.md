@@ -2,6 +2,22 @@
 
 Lo nuevo de cada versión de Affluence, de la más reciente a la más antigua.
 
+## 0.2.3 · 3 de noviembre de 2026
+
+### Nuevo
+- El selector de cliente de la barra superior abre una lista para cambiar de cliente ahí mismo,
+  con buscador cuando hay más de 8 clientes y la opción "Ver todos los clientes".
+- Al cerrar la ventana, Affluence se queda en la bandeja de Windows, junto al reloj. Desde su
+  ícono puedes volver a abrirlo, "Salir de Affluence" (las descargas y tareas programadas siguen)
+  o "Salir y detener el servicio".
+
+### Correcciones
+- Elegir un cliente en la pantalla Clientes no lo dejaba como cliente activo.
+- Validación se quedaba con el primer cliente aunque eligieras otro.
+- En periodos largos, si el SAT rechazaba la conexión al iniciar sesión, se perdía un tramo entero
+  de años. Ahora el inicio de sesión se reintenta antes de darlo por perdido.
+- Al detener la verificación de vigencia ya no se pierde la respuesta que el SAT acababa de dar.
+
 ## 0.2.2 · 3 de noviembre de 2026
 
 ### Nuevo
