@@ -8,8 +8,8 @@ reportes en Excel y expedientes. Todo se guarda en tu computadora; nada se sube 
 [Releases → Latest](https://github.com/jesusguerrero-accountant/affluence-releases/releases/latest)
 (el archivo `Affluence-Setup-X.Y.Z.exe`).
 
-Enlace directo al instalador de la versión 0.2.4:
-[Affluence-Setup-0.2.4.exe](https://github.com/jesusguerrero-accountant/affluence-releases/releases/latest/download/Affluence-Setup-0.2.4.exe)
+Enlace directo al instalador de la versión 0.2.5:
+[Affluence-Setup-0.2.5.exe](https://github.com/jesusguerrero-accountant/affluence-releases/releases/latest/download/Affluence-Setup-0.2.5.exe)
 
 ## Guías
 

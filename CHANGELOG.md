@@ -2,6 +2,36 @@
 
 Lo nuevo de cada versión de Affluence, de la más reciente a la más antigua.
 
+## 0.2.5 · 14 de noviembre de 2026
+
+### Nuevo
+- **Mantener sesión iniciada:** marca la casilla al entrar, elige 15, 20, 30 o 60 días y Affluence
+  abre directo en ese equipo. Tu contraseña nunca se guarda; al cerrar sesión o cambiarla, el equipo
+  te la vuelve a pedir.
+- **Buscador en todos tus clientes:** la caja de la barra superior busca folio fiscal, RFC o nombre
+  en todos los clientes que puedes ver. En CFDI eliges entre "Cliente activo" y "Todos".
+- **Nombre y carpetas del expediente a tu gusto:** tú decides con qué datos se nombra cada XML y su
+  PDF, y cómo se ordenan las carpetas (año, mes, emitidos o recibidos).
+- **Descargas con avance por cliente:** cada cliente muestra su estado durante la descarga y el
+  resumen final dice cuántos se completaron y cuántos quedaron pendientes por el SAT.
+- **Reintentar pendientes:** vuelve a descargar solo los clientes y periodos que el SAT no entregó.
+- **Almacenamiento por categoría** en Configuración: cuánto ocupan catálogos, descargas, PDF y
+  reportes, y acceso directo a la carpeta "Mis archivos".
+
+### Mejoras
+- **Descargas más rápidas y firmes:** el doble de bajadas a la vez. Si el SAT rechaza el acceso de un
+  cliente, la descarga sigue con los demás y ese cliente queda pendiente en lugar de perderse.
+- El expediente incluye siempre su resumen, genera los PDF que falten y clasifica cada comprobante
+  por su vigencia real.
+- Los avisos dicen el RFC y el nombre del cliente, y su botón "Ver" abre el resultado.
+- Las tarjetas e indicadores de Inicio llevan a su pantalla.
+- Ayudas (i) en todas las pantallas, fechas con un solo formato y controles con el mismo estilo.
+- Affluence limpia sola sus archivos internos viejos; tus XML, PDF y reportes no se tocan.
+
+### Correcciones
+- El expediente ya encuentra los PDF generados antes.
+- Al borrar un cliente también se borran sus archivos exportados.
+
 ## 0.2.4 · 13 de noviembre de 2026
 
 ### Nuevo
