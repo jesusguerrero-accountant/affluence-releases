@@ -2,6 +2,43 @@
 
 Lo nuevo de cada versión de Affluence, de la más reciente a la más antigua.
 
+## 0.2.6 · 15 de noviembre de 2026
+
+### Nuevo
+
+- **Eliminar un cliente y entregarle lo suyo.** Antes de eliminar, exportas su expediente completo desde el mismo diálogo. Ya no hay que esperar el plazo de conservación: confirmas que entregaste la información, escribes el RFC y listo.
+- **Consultar el estado ante el SAT de todos tus clientes a la vez**, desde la búsqueda general, con avance y botón para cancelar.
+- **Modo de una sola persona.** Si trabajas solo, ya no ves usuarios, roles ni permisos. Si después compartes el equipo, enciendes "Varios usuarios en este equipo" en Configuración, Avanzado.
+- **Resumen de descargas más claro.** Cada cliente muestra cuántos comprobantes son nuevos, cuántos ya tenías y cuántos están cancelados, con el desglose de emitidos y recibidos.
+- **Programaciones de tu equipo.** Cada persona crea las suyas, y quien administra o gerencia puede verlas y ajustarlas cuando varias personas comparten el equipo.
+- **Cada descarga actualiza el estado ante el SAT de todo el periodo.** Al terminar, Affluence vuelve a preguntar al SAT por los comprobantes nuevos y por los que ya tenías de ese periodo, y te dice cuántos siguen vigentes, cuántos están cancelados y cuántos cambiaron.
+- **Marcar un hallazgo como revisado.** En Validación, los hallazgos que ya atendiste dejan de aparecer; con "Ver revisados" los vuelves a mostrar.
+
+### Mejoras
+
+- **Tablas que no recortan lo importante.** RFC, fechas, montos, conteos y estado se ven completos en Clientes, CFDI, Certificados, Usuarios, Validación, Folios repetidos, Bitácora, historial de descargas y Respaldos. Si la ventana es angosta, la tabla se desplaza hacia los lados.
+- **La consulta que pides a mano siempre pregunta al SAT.** El botón "Consultar estado ante el SAT" ya no se salta comprobantes consultados hace poco.
+- **Iconos del menú más grandes y claros**, ficha del cliente sin textos cortados e historial de respaldos completo.
+- **"Acerca de Affluence" ahora sí habla de Affluence:** versión, qué hace y dónde se quedan tus datos.
+
+- **Descargas más tranquilas con el SAT.** Affluence reparte un número limitado de conexiones entre todos tus clientes y baja el ritmo solo cuando el SAT se satura, para que tus descargas terminen sin que tengas que vigilarlas.
+- **Menos distracciones mientras descargas.** La selección de clientes queda bloqueada con la nota "Descarga en curso", y el aviso de periodos largos aparece solo cuando la descarga ya lleva más de 20 minutos.
+- **El aviso de que terminó la descarga se queda hasta que lo cierres.** Ya no se pierde si te levantaste un momento.
+- **Más rapidez al consultar.** Más pantallas leen tu información sin esperar a que termine otra tarea, así que la búsqueda, el detalle y las listas responden con más soltura aunque haya una importación en marcha.
+- **Actualizaciones con más respaldo.** El programa verifica las actualizaciones con una segunda llave de reserva, para que las versiones futuras lleguen aunque cambie la llave principal.
+- **Guías de la Ayuda al día.** Nuevas secciones sobre qué hacer cuando el SAT se satura, cómo eliminar un cliente y cómo trabajar solo o en equipo.
+- **Importar XML dice "ya existentes"** en lugar de "ya estaban", para nombrar mejor lo que ya tenías.
+
+### Correcciones
+
+- **Las ventanas "Acerca de" y "Licencias de terceros" ya no reaparecen** al cambiar de sección.
+- **La consulta de vigencia por periodo incluye el último día** del rango.
+
+- **Permisos más estrictos.** Se cerraron varios huecos para que cada persona vea y haga solo lo que le corresponde: un gerente ya no conserva alcance sobre clientes que se le quitaron, y las tareas visibles dependen de lo que cada quien puede hacer.
+- **Sesión y bóveda más seguras.** Al cambiar tu contraseña, tus otras sesiones se cierran de verdad, y la e.firma solo se abre cuando la bóveda lo permite.
+- **El alcance del gerente ya no crece solo** al asignar clientes a otras personas.
+- **Un error en una lectura ya no detiene todo el programa.**
+
 ## 0.2.5 · 14 de noviembre de 2026
 
 ### Nuevo
