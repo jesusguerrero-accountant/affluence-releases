@@ -2,6 +2,42 @@
 
 Lo nuevo de cada versión de Affluence, de la más reciente a la más antigua.
 
+## 0.2.7 · 16 de noviembre de 2026
+
+### Nuevo
+- **Constancia de situación fiscal y opinión de cumplimiento:** en Descargas, la pestaña
+  "Documentos del SAT" baja los dos documentos de tus clientes con su e.firma, guarda el historial
+  y te dice si la opinión salió positiva o negativa. También se puede programar.
+- **Navega entre comprobantes relacionados:** desde el detalle de una factura abres sus complementos
+  de pago, notas de crédito o sustituciones, pasas de uno a otro con "Anterior" y "Siguiente" y
+  vuelves con "Regresar". También con Alt + flecha izquierda y derecha.
+- **Copia los folios fiscales relacionados con un clic,** todos juntos o uno por uno.
+- **El recibo de nómina en pantalla:** periodo, días pagados, percepciones, deducciones, otros
+  pagos, horas extra, incapacidades e impuestos retenidos, con cada clave traducida.
+- **Impuestos de los pagos:** el detalle de un complemento de pago muestra sus totales y los
+  impuestos trasladados y retenidos de cada pago.
+- **Más datos de tus comprobantes:** residencia fiscal y registro tributario del receptor
+  extranjero, números de pedimento y operaciones a cuenta de terceros. Lo que ya tenías descargado
+  se completa solo al actualizar.
+- **Factura global identificada** en el detalle, con su periodicidad, meses y año.
+- **Exportar la e.firma de un cliente:** quien administra puede entregarle a su cliente la e.firma
+  guardada en Affluence, después de confirmar su contraseña.
+- **Pedimentos en el reporte por concepto:** una columna nueva, antes de la clave de producto.
+
+### Mejoras
+- **Reportes de Excel con las claves traducidas:** moneda, forma y método de pago, tipo de
+  relación, objeto de impuesto y los datos de nómina salen con su clave y su descripción del
+  catálogo del SAT.
+- **El detalle muestra primero lo importante:** conceptos, impuestos y desgloses a la vista; los
+  comprobantes relacionados salen cerrados y se abren con "Mostrar".
+- **Respaldos verificados más a la vista:** el panel muestra cinco respaldos sin desplazarte.
+- **Programaciones más claras:** cada una dice de quién es, y eliges cada cuántos días se vuelve a
+  consultar la vigencia (de 1 a 30).
+- Tablas del detalle con todas sus columnas y menos memoria al instalar los catálogos del SAT.
+
+### Correcciones
+- En los reportes de nómina, el estado ahora sale con su nombre y no con el país.
+
 ## 0.2.6 · 15 de noviembre de 2026
 
 ### Nuevo
