@@ -2,6 +2,26 @@
 
 Lo nuevo de cada versión de Affluence, de la más reciente a la más antigua.
 
+## 0.2.8 · 18 de noviembre de 2026
+
+### Nuevo
+- **¿Olvidaste tu contraseña?** Si eres administrador, en la pantalla de acceso usa
+  "Olvidé mi contraseña": con tu frase de recuperación, en la misma computadora, eliges una
+  contraseña nueva. La cuenta se desbloquea y tus e.firmas siguen abriendo.
+- **Descarga con CIEC:** los clientes sin e.firma ya se descargan con su RFC y contraseña CIEC.
+  Los captchas se resuelven todos al inicio, uno tras otro, y después la descarga corre sola.
+- **Exportar archivos:** en Operaciones, o desde CFDI con lo que tengas filtrado o marcado: solo
+  los XML, solo los PDF o ambos, en la carpeta que elijas, sueltos o en un ZIP, con tu plantilla
+  de nombres y carpetas.
+- **Llevar el respaldo a otra computadora:** cada respaldo verificado se guarda como un solo
+  archivo para abrirlo en otra computadora con "Restaurar desde un archivo…".
+
+### Mejoras
+- **Respaldos mucho más rápidos:** cada XML se guarda una sola vez; el respaldo diario solo agrega
+  lo nuevo y cada respaldo se sigue restaurando completo. Tus respaldos anteriores se conservan.
+- **Reportes de Excel muy grandes:** si una hoja pasa del límite de Excel (1,048,576 renglones),
+  el reporte sale igual y te avisa qué hoja quedó cortada.
+
 ## 0.2.7 · 16 de noviembre de 2026
 
 ### Nuevo
